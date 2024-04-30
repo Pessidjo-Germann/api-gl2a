@@ -2,7 +2,7 @@
 Une api qui a pour but de récupérer la liste des demandes de services
 Pour ceci on a pas utilisé de Design Pattern en particulier
 
-Le dossier contient deux fichiers: 
+[Le dossier contient deux fichiers: ]
     - api.php qui contient l'api en question
     - function.php qui contient les fonctions qui sont utilisées dans l'api
 
@@ -16,12 +16,12 @@ Le dossier contient deux fichiers:
 Une fois que le projet a été cloné, il faut mettre le dossier API dans le dossier htdocs de Xampp ou alors dans le dossier www de wamp.
 
 Ensuite pour tester il faut utiliser postman, ainsi cet api n'a qu'un seul point d'entrée(endpoint) qui est : 
-    ```bash
+    ```
      localhost/api/api.php?demande 
     ```
 
 Une autre version de cet api avec le design pattern MVC est:
     *[API EN MVC](https://github.com/Pessidjo-Germann/api_gl2b)
-    
+
 Pessidjo Germann
 
