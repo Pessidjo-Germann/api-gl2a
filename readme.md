@@ -23,5 +23,5 @@ Ensuite pour tester il faut utiliser postman, ainsi cet api n'a qu'un seul point
 Une autre version de cet api avec le design pattern MVC est:
     *[API EN MVC](https://github.com/Pessidjo-Germann/api_gl2b)
 
-Pessidjo Germann
+**Pessidjo Germann**
 
