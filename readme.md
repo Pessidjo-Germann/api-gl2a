@@ -2,11 +2,11 @@
 Une api qui a pour but de récupérer la liste des demandes de services
 Pour ceci on a pas utilisé de Design Pattern en particulier
 
-# [Le dossier contient deux fichiers: ]
+# Le dossier contient deux fichiers: 
     - api.php qui contient l'api en question
     - function.php qui contient les fonctions qui sont utilisées dans l'api
 
-# [Explication du contenu de function.php]
+# Explication du contenu de function.php
     -La fonction getConnexion(): qui nous connecte à notre base de donnée c'est le fichier à modifier si jamais on veut changer de table
     -La fonction sendJSON($info): qui recoit les données de notre base de donnée en paramètre puis la transforme en JSON avant de la renvoyer
     -La fonction getService(): c'est ici qu'on écrit notre requête à exécuter puis on appele sendJSON pour encoder les données recues de la base de donnée
