@@ -2,7 +2,7 @@
 Une api qui a pour but de récupérer la liste des demandes de services
 Pour ceci on a pas utilisé de Design Pattern en particulier
 
-[Le dossier contient deux fichiers: ]
+# [Le dossier contient deux fichiers: ]
     - api.php qui contient l'api en question
     - function.php qui contient les fonctions qui sont utilisées dans l'api
 
